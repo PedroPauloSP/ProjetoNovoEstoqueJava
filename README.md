@@ -1,2 +1,6 @@
 # ProjetoNovoEstoqueJava
-Projeto de Controlr de estoque
+## Projeto para Controlar estoque de entradas e saidas
+## Técnologias aplicadas
+- Java
+- Git Hub
+- Git bach
